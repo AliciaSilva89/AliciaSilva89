@@ -55,9 +55,6 @@ Inglês: Básico (2 anos de curso na Wizard)
 
 
 
-[Brazilian Tax API](https://github.com/AliciaSilva89/Brazilian_Tax_API): Uma API para cálculo e consulta de impostos brasileiros. Criado para simplificar a integração fiscal em aplicações.
-
-
 
 📬 Como Me Encontrar
 
